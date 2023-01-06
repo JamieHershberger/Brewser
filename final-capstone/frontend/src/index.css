@@ -1,0 +1,16 @@
+:root {
+  --bs-body-color: #E6E6E6;
+  --bs-body-bg: #0F0F0F;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+code {
+  font-family: 'Merriweather', sans-serif;
+}
+
